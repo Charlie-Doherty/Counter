@@ -19,7 +19,7 @@ h1{
     color: #262d68;
 }
 
-#count{
+.count{
     font-size: 6rem;
     margin: 0.2em 0 0.5em 0;
 }
@@ -46,11 +46,11 @@ button:hover{
         font-size: 3rem;
     }
 
-    #count{
+    .count{
         font-size: 5rem;
     }
 
-    .button{
+    button{
         font-size: 1rem;
         margin: 0.3em;
     }
